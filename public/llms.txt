@@ -1,0 +1,103 @@
+# שיער חלומות — Generative Engine Optimization Map
+
+> A hair extensions business focused on providing hair extension services or products. The brand operates in the beauty and hair care industry, catering to clients looking to enhance their hair length, volume, or style through professional hair extensions.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+תוספות שיער מקצועיות שישנו את המראה שלך לחלוטין. אצלנו תמצאי תוספות רמי איכותיות, תוספות חלקות ועיצוב מושלם שמתאים בדיוק לך. הזמיני תור עוד היום!
+
+### שירותים
+https://example.com/services
+ממגוון תוספות שיער חלקות ועד תוספות רמי פרימיום — כל שירות מותאם אישית לצרכייך. גלי את הטיפולים המקצועיים שלנו ובחרי את הדרך המושלמת לשיער שתמיד רצית.
+
+### אודות
+https://example.com/about
+אנחנו מאמינות שכל אישה ראויה לשיער שמרגיש כמו חלום. הכירי את הצוות המקצועי שלנו, את הערכים שמנחים אותנו ואת התשוקה שלנו לתוספות שיער איכותיות שמשנות חיים.
+
+### צור קשר
+https://example.com/contact
+רוצה לדעת איזו תוספת שיער מתאימה לך? צרי איתנו קשר עוד היום לייעוץ אישי ומקצועי. אנחנו כאן לענות על כל שאלה ולעזור לך לקבוע תור בסלון תוספות השיער המוביל.
+
+### Products
+https://example.com/products
+המוצרים שלנו - שיער חלומות
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - שיער חלומות
+
+### Category
+https://example.com/category/:slug
+מוצרים - שיער חלומות
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שיער חלומות
+A hair extensions business focused on providing hair extension services or products. The brand operates in the beauty and hair care industry, catering to clients looking to enhance their hair length, volume, or style through professional hair extensions.
+
+## Services/Products
+- תוספות שיער
+
+## Target Audience
+- חובבי אופנה יוקרתית
+- שוק כלות
+- משפיעניות ביוטי
+
+## Industry
+Hair Extensions
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
